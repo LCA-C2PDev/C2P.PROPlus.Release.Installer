@@ -2,11 +2,7 @@
 
 **Applicable release:** `v2026.8.13.3`
 
-> This page reproduces the supplied LC ACOUSTICS EULA. Formatting has been added for readability; no substantive legal terms have been changed.
-
----
-
-> 30th JUNE 2026: This is Latest update covering enhanced Licensing activation and installation workflow. It also incorporates updated Athan audio content
+> 30th JUNE 2026: This page presents LC ACOUSTICS END USER LICENSE AGREEMENT [EULA] for Call2Prayer Advance Automation Solution.
 
 ## END USER LICENSE AGREEMENT
 
